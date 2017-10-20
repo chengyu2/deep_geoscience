@@ -1,6 +1,11 @@
 
 # Deep Geoscience
 
+A small collection of deep learning models for geoscience data. 
+
+
+## Model 1: Satellite Image Classification
+
 Contributions: 
 1. Pre-processed dataset of SAT6 to be compatible with Inception v3 repository
 2. A high performance satellite image classification model
