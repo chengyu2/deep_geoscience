@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/workspace.xml
+SAT-4_and_SAT-6_datasets/.DS_Store
+SAT-4_and_SAT-6_datasets/readme.txt
+SAT-4_and_SAT-6_datasets/sat-4-full.mat
+SAT-4_and_SAT-6_datasets/sat-6-full.mat
+__pycache__/
+landsat/.DS_Store
+landsat/ls7_level1_scene/
+utils/__pycache__/

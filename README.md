@@ -1,5 +1,5 @@
 
-#Deep Geoscience
+# Deep Geoscience
 
 Contributions: 
 1. Pre-processed dataset of SAT6 to be compatible with Inception v3 repository
@@ -41,7 +41,7 @@ INFO:tensorflow:Final test accuracy = 96.7% (N=40478)
 
 Baseline: **"Deep-SAT"** on SAT-6 93.9%
 
-##References:
+## References:
 
 [Inception V3 Inference](https://www.tensorflow.org/tutorials/image_recognition
 )
