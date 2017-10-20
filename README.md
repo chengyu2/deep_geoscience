@@ -10,11 +10,11 @@ Contributions:
 1. Pre-processed dataset of SAT6 to be compatible with Inception v3 repository
 2. A high performance satellite image classification model
 
-## System requirement
+### System requirement
 Python 3.6+
 Tensorflow
 
-## Steps to verify the model performance
+### Train and evaluate model
 * Assume to be in the project home directory
 * Assume all the system requirements have been satisfied
 1. Download SAT-6 dataset: [Download page](http://csc.lsu.edu/~saikat/deepsat/)
@@ -22,7 +22,7 @@ Tensorflow
 3. Transfer-learning: 
 ```python image_retraining/retrain.py --image_dir SAT-4_and_SAT-6_datasets/inception_ready``` 
 
-## File description
+## Files description
 **ls_data_reader.py**
 An extendable class whose objects can handle LandSat image data.
 **sat_loader.py**
